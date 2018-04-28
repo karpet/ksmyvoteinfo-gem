@@ -5,8 +5,6 @@ KsMyVoteInfo Ruby gem makes it easy to search the Kansas SOS voter registration 
 for the registrant details. You supply first/last name, dob and county, this gem looks
 it up and return the HTML snippet from the site.
 
-MIT license.
-
 # Example
 
 ```ruby
@@ -19,5 +17,9 @@ else
   puts "Sorry, no details for Some Body in Douglas county."
 end
 ```
+
+# Copyright and License
+
+MIT license.
 
 Copyright 2018 Peter Karman
