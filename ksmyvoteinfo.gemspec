@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.add_runtime_dependency 'mechanize', '~> 0'
-  s.add_runtime_dependency 'nokogiri', '~> 0'
+  s.add_runtime_dependency 'nokogiri', '~> 1.8', '>= 1.8.2' 
 end
